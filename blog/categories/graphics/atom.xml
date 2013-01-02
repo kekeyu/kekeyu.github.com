@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://kekeyu.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: graphics | My Octopress Blog]]></title>
+  <link href="http://kekeyu.github.com/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="http://kekeyu.github.com/"/>
   <updated>2013-01-02T04:36:05-05:00</updated>
   <id>http://kekeyu.github.com/</id>
@@ -18,13 +18,13 @@
     <link href="http://kekeyu.github.com/blog/2013/01/02/ce-shi-pian/"/>
     <updated>2013-01-02T00:07:00-05:00</updated>
     <id>http://kekeyu.github.com/blog/2013/01/02/ce-shi-pian</id>
-    <content type="html"><![CDATA[<p><strong>&#8211; DRAFT Version &#8211;</strong></p>
+    <content type="html"><![CDATA[<p><strong>-- DRAFT Version --</strong></p>
 
 <p>最近在学习Intel Gen系列显卡相关的知识，包括Gen6（Sandy Bridge），Gen7（Ivy Bridge）。这篇是有关PPGTT的学习笔记。</p>
 
 <h2>What is PPGTT</h2>
 
-<p>PPGTT is short for &#8220;Per-Process Graphics Translation Table&#8221;</p>
+<p>PPGTT is short for "Per-Process Graphics Translation Table"</p>
 
 <h2>PPGTT hardware to software interface</h2>
 
